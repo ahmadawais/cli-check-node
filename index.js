@@ -23,7 +23,7 @@ Required version of Node is: ${chalk.green(requiredNodeVersion)} or higher.
 ${sym.info} Please update your version of Node.js to run this program.
 ${sym.info} https://nodejs.org/en/download \n`;
 
-	if (major < requiredNodeVersion) {
+	if (major < Math.abs(requiredNodeVersion)) {
 		console.error(fail);
 		finalOptions.fail && process.exit(1);
 		return fail;
