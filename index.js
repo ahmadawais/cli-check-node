@@ -21,8 +21,8 @@ ${sym.error} ${chalk.red(`Node version issue!`)}
 You are running Node version: ${chalk.red(currentNodeVersion)}
 Required version of Node is: ${chalk.green(requiredNodeVersion)} or higher.
 
-${sym.info} Please update your version of Node.
-${sym.info} https://nodejs.org/en/download/\n`
+${sym.info} Please update your version of Node.js to run this program.
+${sym.info} https://nodejs.org/en/download \n`
 		);
 		finalOptions.fail && process.exit(1);
 	}
