@@ -29,6 +29,18 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [1.1.0](https://github.com/ahmadawais/cli-check-node/compare/1.0.0...1.1.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Lingo [`0ee9935`](https://github.com/ahmadawais/cli-check-node/commit/0ee9935b7c1178c67eb9dd5c86e606c5b74ce195) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: 1.0.0
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -36,6 +48,10 @@ I have released a video course to help you become a better developer — <a href
 > 📦 First commit [`671a73c`](https://github.com/ahmadawais/cli-check-node/commit/671a73c674c30730a306263e61dde395924e3a02) <br>
 > 📦 First version [`0d8b735`](https://github.com/ahmadawais/cli-check-node/commit/0d8b735df315c6fee4108c62265dc6b58644285e) <br>
 > 📦 First version [`f9e9642`](https://github.com/ahmadawais/cli-check-node/commit/f9e964217a3f03e75ea9e0633524279593aa67c9) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`1acdabd`](https://github.com/ahmadawais/cli-check-node/commit/1acdabd883a5bd57d99f36459122f579071f566f) <br>
 
 <br>
 
