@@ -1,3 +1,3 @@
-const cliCheckNode = require('./index.js');
+const checkNode = require('./index.js');
 
-cliCheckNode();
+checkNode('15');
