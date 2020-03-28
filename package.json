@@ -1,6 +1,6 @@
 {
 	"name": "cli-check-node",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Check the installed Node.js version and exit as per the required Node.js version.",
 	"license": "MIT",
 	"repository": "ahmadawais/cli-check-node",
