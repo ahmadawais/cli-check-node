@@ -26,6 +26,7 @@
 		"log-symbols": "^3.0.0"
 	},
 	"devDependencies": {
-		"ava": "^3.5.1"
+		"ava": "^3.5.1",
+		"execa": "^4.0.0"
 	}
 }
