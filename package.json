@@ -1,0 +1,24 @@
+{
+	"name": "cli-check-node",
+	"version": "0.0.1",
+	"description": "Check the installed Node.js version and exit as per the required Node.js version.",
+	"license": "MIT",
+	"repository": "ahmadawais/cli-check-node",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"cli-check-node",
+		"Ahmad Awais",
+		"ahmadawais"
+	],
+	"scripts": {
+		"test": "node test.js"
+	}
+}
