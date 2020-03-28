@@ -9,7 +9,10 @@ const chalk = require('chalk');
  *
  * @param {String} requiredNodeVersion
  */
-module.exports = requiredNodeVersion => {
+module.exports = (requiredNodeVersion, options) => {
+	const defaultOptions = { fail: true };
+	const finalOptions = { ...defaultOptions, ...options };
+
 	if (major < requiredNodeVersion) {
 		console.error(
 			`
@@ -21,6 +24,6 @@ Required version of Node is: ${chalk.green(requiredNodeVersion)} or higher.
 ${sym.info} Please update your version of Node.
 ${sym.info} https://nodejs.org/en/download/\n`
 		);
-		process.exit(1);
+		finalOptions.fail && process.exit(1);
 	}
 };

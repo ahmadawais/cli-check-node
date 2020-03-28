@@ -22,7 +22,37 @@ npm install cli-check-node
 ## Usage
 
 ```js
-const cliCheckNode = require('cli-check-node');
+const checkNode = require('cli-check-node');
+checkNode('13'); // Fails the script if current node version is less than 13.
+```
+
+<br />
+
+[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/options.png)](./../../)
+
+## API
+
+### checkNode(requiredNodeVersion, options?)
+
+#### ❯ requiredNodeVersion
+
+Type: `string`<br>
+
+#### ❯ options
+
+Type: `object`<br>
+Default: `{fail: true}` (optional)
+
+You can specify the options below.
+
+#### ❯ fail
+
+Type: `boolean`<br>
+Default: `true` (optional)
+
+```js
+checkNode('13', {fail: false});
+// Notifies if current node version is less than 13. Does NOT fail.
 ```
 
 <br>
