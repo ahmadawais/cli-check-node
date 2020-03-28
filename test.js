@@ -6,7 +6,8 @@
 const test = require('ava');
 const checkNode = require('./index.js');
 
-test.failing('Failing script', t => {
-	checkNode('15', { fail: false });
-	t.fail();
-});
+(async () => {
+	test('node version is not 100', async t => {
+		t.regex(checkNode('100', { fail: false }), /Required version of Node is: 100 or higher./);
+	});
+})();
