@@ -32,11 +32,31 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [1.3.2](https://github.com/ahmadawais/cli-check-node/compare/1.3.1...1.3.2)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Image [`44540bb`](https://github.com/ahmadawais/cli-check-node/commit/44540bb129d227e1cd7cf5d7f3004e66518cd98a) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Badge color [`256df06`](https://github.com/ahmadawais/cli-check-node/commit/256df06c9b78bf369f5a0c8ca5d2373673dd8e5e) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [1.3.1](https://github.com/ahmadawais/cli-check-node/compare/1.3.0...1.3.1)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 Analyze [`f0ba9af`](https://github.com/ahmadawais/cli-check-node/commit/f0ba9af1350416a8219c8d135c72f3475ec3a622) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`efa22be`](https://github.com/ahmadawais/cli-check-node/commit/efa22be54b6e09cf75233f1c67638fd5cceebe81) <br>
 
 <br>
 
