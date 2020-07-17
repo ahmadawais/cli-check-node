@@ -7,7 +7,7 @@
 
 Check the installed Node.js version and exit as per the required Node.js version.
 
-[![DOWNLOADS](https://img.shields.io/npm/dt/cli-check-node?label=DOWNLOADS%20%20%E2%9DFridayF&colorA=007C92&colorB=007C92&style=flat)](https://www.npmjs.com/package/cli-check-node) [![Learn Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=007C92&style=flat)](https://nodecli.com/?utm_source=GitHubFOSS) [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS%20%E2%86%92-gray.svg?colorA=007C92&colorB=007C92&style=flat)](https://twitter.com/mrahmadawais/)
+[![DOWNLOADS](https://img.shields.io/npm/dt/cli-check-node?label=DOWNLOADS%20%20%E2%9DFridayF&colorA=6ABB47&colorB=6ABB47&style=flat)](https://www.npmjs.com/package/cli-check-node) [![Learn Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=6ABB47&style=flat)](https://nodecli.com/?utm_source=GitHubFOSS) [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS%20%E2%86%92-gray.svg?colorA=6ABB47&colorB=6ABB47&style=flat)](https://twitter.com/mrahmadawais/)
 
 </h4>
 
